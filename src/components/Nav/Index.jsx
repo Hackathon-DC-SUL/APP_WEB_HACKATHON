@@ -12,8 +12,8 @@ function nav (){
             <div className="main-container d-flex">
         <div className="sidebar" id="side_nav">
             <div className="header-box px-2 pt-3 pb-4 d-flex justify-content-between">
-                <h1 className="fs-4"><span className="bg-white text-dark rounded shadow px-2 me-2">CL</span> <span
-                        className="text-white">Coding League</span></h1>
+                <h1 className="fs-4"><span className="bg-white text-dark rounded shadow px-2 me-2">DC</span> <span
+                        className="text-white">Digital College</span></h1>
                 <button className="btn d-md-none d-block close-btn  px-1 py-0 text-white"><i
                         className="fal fa-stream"></i></button>
             </div>
