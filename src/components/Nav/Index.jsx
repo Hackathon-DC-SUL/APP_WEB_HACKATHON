@@ -3,10 +3,6 @@ import './Nav.css'
 
 function nav (){
 
-
-
-  
-
     return (
         <>
             <div className="main-container d-flex">
