@@ -1,0 +1,43 @@
+header {
+  width: 100%;
+  background-color: #fff;
+  padding: 1rem;
+}
+
+.container-main {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  
+}
+
+header .logo {
+  width: 100%;
+  max-width: 150px;
+}
+
+.container-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+.menu-search {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.notifications-user {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.img-user {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 63%;
+  margin-right: 0.5rem;
+}
