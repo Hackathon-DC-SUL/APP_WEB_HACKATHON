@@ -1,0 +1,28 @@
+aside {
+  background-color: white;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1.5rem;
+  width: 100%;
+  height: 50%;
+}
+aside th:not(:first-child) {
+  text-align: center;
+}
+
+aside td:not(:first-child) {
+  text-align: center;
+}
+
+td {
+  color: #8e99a3 !important;
+  font-family: "Outfit", sans-serif;
+}
+
+.image-avatar {
+  width: 2.1rem;
+  height: 2rem;
+  border-radius: 63%;
+  margin-right: 0.5rem;
+}
+

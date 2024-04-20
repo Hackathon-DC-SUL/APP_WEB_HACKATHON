@@ -1,0 +1,20 @@
+.card-info {
+  border-radius: 0.5rem;
+  color: #fff;
+  width: 300px;
+  display: flex;
+  padding: 20px;
+}
+
+.info > .titulo, .quantidade, .periodo{
+  margin: 0;
+  padding: 0;
+}
+
+.info .quantidade {
+  font-size: 30px;
+  font-weight: 600;
+}
+.icon{
+  margin: auto 0 0 auto;
+}
